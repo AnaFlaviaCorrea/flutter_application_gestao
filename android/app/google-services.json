@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "857689675871",
+    "firebase_url": "https://flutter-application-gestao-default-rtdb.firebaseio.com",
+    "project_id": "flutter-application-gestao",
+    "storage_bucket": "flutter-application-gestao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857689675871:android:177ad6b18d8bb4c4b723ea",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_gestao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo2U1sV_WJQuQhJl-ecvNi8h56IJW2C_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
