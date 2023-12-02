@@ -47,7 +47,7 @@ class _HomePageState extends State<HomePage> {
             if (index == 3) {
               FirebaseAuth.instance.signOut();
               Navigator.of(context).pushReplacement(
-                MaterialPageRoute(builder: (context) => LoginPage()),
+                MaterialPageRoute(builder: (context) => const LoginPage()),
               );
             }
           });

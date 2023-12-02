@@ -69,7 +69,7 @@ class _SignUpPageState extends State<SignUpPage> {
                       }).catchError((error) {
                         ScaffoldMessenger.of(context).showSnackBar(
                           SnackBar(
-                            content: Text('Falha ao cadastrar usuário'),
+                            content: Text('Erro ao cadastrar usuário'),
                           ),
                         );
                       });

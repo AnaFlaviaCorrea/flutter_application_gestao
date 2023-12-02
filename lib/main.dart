@@ -17,10 +17,10 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'ContaConsciente',
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        colorScheme: ColorScheme.fromSeed(seedColor: const Color.fromARGB(255, 58, 143, 183)),
         useMaterial3: true,
       ),
-      home: SignUpPage(),
+      home: const SignUpPage(),
     );
   }
 }
